@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = {"${rest.request.mapping.rest-api-aws-employee-services-ecs}"})
 public class AWSEmployeeServiceController {
 
+
 	//@GetMapping("/getAWSEmployeeServicesECSDeployments")
 	@GetMapping("${rest.get.mapping.getAWSEmployeeServicesECSDeployments}")
 	public String getAWSEmployeeServicesECSDeployments() {
