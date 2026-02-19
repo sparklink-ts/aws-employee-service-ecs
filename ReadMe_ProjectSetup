@@ -1,0 +1,11 @@
+
+
+        ***************  AWS Employee Service using ECS Version : 2.0.1  *******************
+
+
+	*********  AWS REST API Call *********************//
+
+    Public Facing Port - 8080 :     http://localhost:8080/rest-api-aws-employee-services-ecs/getAWSEmployeeServicesECSDeployments
+
+    //***********  AWS REST API Call *********************//
+
