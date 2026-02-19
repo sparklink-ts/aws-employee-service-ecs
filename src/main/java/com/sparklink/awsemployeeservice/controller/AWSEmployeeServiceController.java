@@ -12,7 +12,7 @@ public class AWSEmployeeServiceController {
 	//@GetMapping("/getAWSEmployeeServicesECSDeployments")
 	@GetMapping("${rest.get.mapping.getAWSEmployeeServicesECSDeployments}")
 	public String getAWSEmployeeServicesECSDeployments() {
-		return "AWS - Employee Services Working Fine. Great Work !!!";
+		return "AWS - Employee Services Working Fine. Nice Work !!!";
 	}
 
 }
