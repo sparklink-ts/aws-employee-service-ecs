@@ -5,7 +5,11 @@
 
 	*********  AWS REST API Call *********************//
 
-    Public Facing Port - 8080 :     http://localhost:8080/rest-api-aws-employee-services-ecs/getAWSEmployeeServicesECSDeployments
+    Public Facing Port - 8080 :
+
+    http://localhost:8080/rest-api-aws-employee-services-ecs/getAWSEmployeeServicesECSDeployments
+    http://localhost:8080/rest-api-aws-employee-services-ecs/health
+    http://localhost:8080/rest-api-aws-employee-services-ecs/welcome
 
     //***********  AWS REST API Call *********************//
 
